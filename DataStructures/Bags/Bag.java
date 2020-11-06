@@ -7,6 +7,7 @@ import java.util.NoSuchElementException;
  * Collection which does not allow removing elements (only collect and iterate)
  *
  * @param <Element> - the generic type of an element in this bag
+ *  Saravana Pradeesh
  */
 public class Bag<Element> implements Iterable<Element> {
 
